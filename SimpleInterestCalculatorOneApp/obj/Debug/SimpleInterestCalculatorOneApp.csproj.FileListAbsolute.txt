@@ -1,0 +1,9 @@
+E:\c#\SimpleInterestCalculatorOneApp\SimpleInterestCalculatorOneApp\bin\Debug\SimpleInterestCalculatorOneApp.exe.config
+E:\c#\SimpleInterestCalculatorOneApp\SimpleInterestCalculatorOneApp\obj\Debug\SimpleInterestCalculatorOneApp.csprojResolveAssemblyReference.cache
+E:\c#\SimpleInterestCalculatorOneApp\SimpleInterestCalculatorOneApp\obj\Debug\SimpleInterestCalculatorOneApp.SimpleInterestCalculatorUi.resources
+E:\c#\SimpleInterestCalculatorOneApp\SimpleInterestCalculatorOneApp\obj\Debug\SimpleInterestCalculatorOneApp.Properties.Resources.resources
+E:\c#\SimpleInterestCalculatorOneApp\SimpleInterestCalculatorOneApp\obj\Debug\SimpleInterestCalculatorOneApp.csproj.GenerateResource.Cache
+E:\c#\SimpleInterestCalculatorOneApp\SimpleInterestCalculatorOneApp\bin\Debug\SimpleInterestCalculatorOneApp.exe
+E:\c#\SimpleInterestCalculatorOneApp\SimpleInterestCalculatorOneApp\bin\Debug\SimpleInterestCalculatorOneApp.pdb
+E:\c#\SimpleInterestCalculatorOneApp\SimpleInterestCalculatorOneApp\obj\Debug\SimpleInterestCalculatorOneApp.exe
+E:\c#\SimpleInterestCalculatorOneApp\SimpleInterestCalculatorOneApp\obj\Debug\SimpleInterestCalculatorOneApp.pdb
